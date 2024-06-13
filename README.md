@@ -1,2 +1,1 @@
-# Spring-Boot-CRUD
-# Spring-Boot-CRUD
+This Spring Boot project is CRUD operations using JdbcTemplate
